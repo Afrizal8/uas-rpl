@@ -29,7 +29,7 @@
             <div class="w-4/12 p-4">
                 <div>
                     <h2
-                        class="font-semibold text-lg p-6 bg-indigo-700 rounded-t-lg text-white"
+                        class="font-semibold text-lg p-6 bg-blue-700 rounded-t-lg text-white"
                     >
                         About {{ community.name }}
                     </h2>

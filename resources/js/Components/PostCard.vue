@@ -1,6 +1,6 @@
 <template>
     <div
-        class="mt-4 max-w-4xl flex bg-white rounded-lg border border-gray-200 shadow-md dark:bg-white dark:border-gray-700"
+        class="mt-4 max-w-4xl flex bg-white rounded-lg border border-gray-200 shadow-md dark:bg-white dark:border-gray-200"
     >
         <div class="mr-3">
             <PostVote :post="post" />
@@ -27,7 +27,7 @@
                 "
             >
                 <h5
-                    class="mb-2 text-2xl font-bold tracking-tight text-white dark:text-gray-900 hover:text-indigo-700"
+                    class="mb-2 text-2xl font-bold tracking-tight text-white dark:text-gray-900 hover:text-blue-700"
                 >
                     {{ post.title }}
                 </h5>
