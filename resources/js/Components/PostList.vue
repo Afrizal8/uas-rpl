@@ -1,6 +1,6 @@
 <template>
     <div class="w-full bg-white shadow-md border rounded-lg">
-        <h2 class="font-semibold text-lg p-6 bg-blue-700 text-white rounded-lg">
+        <h2 class="font-semibold text-lg p-6 bg-blue-600 text-white rounded-lg">
             <slot name="title" />
         </h2>
         <ul
